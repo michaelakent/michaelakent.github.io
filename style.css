@@ -1,15 +1,9 @@
-img {
-  width: 150px;
-  display: inline-block;
-  margin: 0 auto;
-}
 
 .social-icon {display: inline-block; margin: 0 10px}
 
 .polaroid {
     height: auto;
     width: 40%;
-    margin: auto;
     background-color: 
 white;
     border-radius: 25px;

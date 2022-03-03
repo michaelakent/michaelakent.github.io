@@ -4,9 +4,10 @@ output: html_document
 ---
 
 <div class="polaroid">
-  <img src="MK_headshot.jpg" style="width:30%" align="left" hspace="50" vspace="20"> 
+  <img src="MK_headshot.jpg" align="left" style="padding-right: 20px; padding left: 20px;" vspace="20"> 
 </div>
 
+<br>
 Michaela Kent is a PhD student in the Neuroscience program at Western University, London, Ontario. She is co-supervised by [Dr. Emma Duerden](https://www.developingbrain.ca/) and [Dr. Jody Culham](http://www.culhamlab.com/). 
 
 
