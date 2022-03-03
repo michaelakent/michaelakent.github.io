@@ -8,10 +8,11 @@ output: html_document
 <center>
 Please feel free to [email me](mailto:mkent28@uwo.ca) or reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
 
-
-<a class="twitter-timeline" href="https://twitter.com/michaelakent_">Tweets by michaelakent_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
 <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
 <a href=https://twitter.com/michaelakent_> <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>
 <a href=https://www.linkedin.com/in/michaelakent/> <img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a>
+
+<center>
+<a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" data-tweet-limit="5" href="https://twitter.com/michaelakent_">Tweets by @michaelakent_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
