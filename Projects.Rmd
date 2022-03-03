@@ -34,7 +34,7 @@ output: html_document
 - A user guide to using photogrammetry for localisation of optode locations in functional near-infrared (fNIRS) studies. 
 
 <center>
-<img src="images/Photogram3_MK.jpeg" style="width:20%"  hspace="30" vspace="20"><img src="images/Photogram1_MK.jpeg" style="width:20%" hspace="30" vspace="20"><img src="images/Photogram2_MK.jpeg" style="width:20%" hspace="30" vspace="20">
+<img src="images/Photogram3_MichaelaKent.jpeg" style="width:20%"  hspace="30" vspace="20"><img src="images/Photogram1_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20"><img src="images/Photogram2_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20">
 
 <br>
 <br>
