@@ -18,7 +18,7 @@ navbar:
       href: https://twitter.com/michaelakent_
     - icon: fa-brands fa-linkedin
       href: http://ca.linkedin.com/in/michaelakent/ 
-  output:
-    html_document:
-      theme: flatly
-      css: style.css
+output:
+  html_document:
+    theme: flatly
+    css: style.css
