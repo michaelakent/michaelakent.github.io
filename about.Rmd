@@ -3,13 +3,14 @@ title: "About"
 output: html_document
 ---
 
-
-<img src="MK_headshot.jpg" style="width:30%" align="left" hspace="50" vspace="20"> 
+<div class="polaroid">
+  <img src="MK_headshot.jpg" style="width:30%" align="left" hspace="50" vspace="20"> 
+</div>
 
 Michaela Kent is a PhD student in the Neuroscience program at Western University, London, Ontario. She is co-supervised by [Dr. Emma Duerden](https://www.developingbrain.ca/) and [Dr. Jody Culham](http://www.culhamlab.com/). 
 
 
-Her interest in the developing brain has been a driving factor behind previous work. During an undergraduate degree at Glasgow Caledonian University, Michaela wrote a dissertation focussing on the neurodevelopment of children raised in orphanages. She then completed a Master's degree in Brain Science at the University of Glasgow, working primarily on a functional magnetic imaging (fMRI) study exploring aspects of social cognition. Building on her neuroimaging background, Michaela is now working to use functional near infrared spectroscopy (fNIRS) to study the developing brain in naturalistic settings. 
+Her interest in the developing brain has been a driving factor behind previous work. During an undergraduate degree at Glasgow Caledonian University, Michaela wrote a dissertation focussing on the neurodevelopment of children raised in orphanages. She then completed a Master's degree in Brain Science at the University of Glasgow, working primarily on a functional magnetic imaging (fMRI) study exploring aspects of social cognition. Building on her neuroimaging background, Michaela is now working to use functional near-infrared spectroscopy (fNIRS) to study the developing brain in naturalistic settings. 
 
 
 Outside of her graduate work, Michaela serves as the Media Coordinator for the [Society of Neuroscience Graduate Students](https://songsuwo.ca/execs) and a graduate teaching assistant at Western University. 

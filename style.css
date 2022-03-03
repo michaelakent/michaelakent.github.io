@@ -6,3 +6,13 @@ img {
 
 .social-icon {display: inline-block; margin: 0 10px}
 
+.polaroid {
+    height: auto;
+    width: 40%;
+    margin: auto;
+    background-color: 
+white;
+    border-radius: 25px;
+    box-shadow: 2px 4px 8px 3px 
+Gainsboro;
+}
