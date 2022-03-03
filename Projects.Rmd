@@ -1,0 +1,23 @@
+---
+title: "Projects"
+output: html_document
+---
+
+
+
+Please find links to projects I have previously worked on below:
+
+
+## [Anthropomorphism and Theory-of-Mind](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
+- [Preprint](https://psyarxiv.com/3uj4g/)
+- [PDF](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
+- [Preregistration](https://osf.io/tuq4a/)
+- [NeuroVault](https://neurovault.org/collections/6615/)
+- [Code](https://gitlab.com/hortensius/anthrom)
+- [Dataset](https://osf.io/rg5kn/)
+
+
+## [Photogrammetry for fNIRS](https://zenodo.org/record/4146985#.YiANgWRufvW)
+- [Zenodo](https://zenodo.org/record/4146985#.YiANgWRufvW)
+- A user guide to using photogrammetry for localisation of optode locations in functional near infrared (fNIRS) studies. 
+

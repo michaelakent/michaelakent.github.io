@@ -1,12 +1,11 @@
 ---
-title: "index.Rmd"
-author: "Michaela Kent"
-date: "02/03/2022"
+title: "Home"
 output: html_document
 ---
 
----
-title: "Personal Website"
----
 
-Hello, World!
+Please feel free to [email me](mailto:mkent28@uwo.ca) or reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
+
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-github"></i>
+<i class="fa-brands fa-linkedin"></i>
