@@ -19,7 +19,7 @@ output: html_document
 
 # [Anthropomorphism and Theory-of-Mind](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
 
-<img src="ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"> 
+<img src="images/ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"> 
 
 - [Preprint](https://psyarxiv.com/3uj4g/)
 - [PDF](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
@@ -34,4 +34,13 @@ output: html_document
 - A user guide to using photogrammetry for localisation of optode locations in functional near-infrared (fNIRS) studies. 
 
 <center>
-<img src="Photogram2_MK.png" style="width:20%" hspace="30" vspace="20"> <img src="Photogram1_MK.png" style="width:20%"  hspace="30" vspace="20"> 
+<img src="images/Photogram3_MK.jpeg" style="width:20%"  hspace="30" vspace="20"><img src="images/Photogram1_MK.jpeg" style="width:20%" hspace="30" vspace="20"><img src="images/Photogram2_MK.jpeg" style="width:20%" hspace="30" vspace="20">
+
+<br>
+<br>
+<center>
+<a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
+<a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://twitter.com/michaelakent_> <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://www.linkedin.com/in/michaelakent/> <img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a>
+
