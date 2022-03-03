@@ -1,5 +1,8 @@
 img {
-  width: 300px;
+  width: 150px;
   display: inline-block;
   margin: 0 auto;
 }
+
+.social-icon {display: inline-block; margin: 0 10px}
+

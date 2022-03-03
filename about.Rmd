@@ -4,6 +4,7 @@ output: html_document
 ---
 
 
+<img src="MK_headshot.jpg" style="width:30%" align="left" hspace="50" vspace="20"> 
 
 Michaela Kent is a PhD student in the Neuroscience program at Western University, London, Ontario. She is co-supervised by [Dr. Emma Duerden](https://www.developingbrain.ca/) and [Dr. Jody Culham](http://www.culhamlab.com/). 
 
@@ -14,4 +15,5 @@ Her interest in the developing brain has been a driving factor behind previous w
 Outside of her graduate work, Michaela serves as the Media Coordinator for the [Society of Neuroscience Graduate Students](https://songsuwo.ca/execs) and a graduate teaching assistant at Western University. 
 
 
-![](MK_headshot.jpg)
+
+

@@ -1,7 +1,7 @@
 name: "michaelakent"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: ""
   left:
     - text: "Home"
       href: index.html
@@ -9,7 +9,16 @@ navbar:
       href: about.html
     - text: "Projects"     
       href: projects.html  
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:mkent28@uwo.ca
+    - icon: fa-github fa-lg
+      href: http://github.com/michaelakent/ 
+    - icon: fa-brands fa-twitter
+      href: https://twitter.com/michaelakent_
+    - icon: fa-brands fa-linkedin
+      href: http://ca.linkedin.com/in/michaelakent/ 
   output:
     html_document:
-      theme: lux
+      theme: darkly
       css: style.css
