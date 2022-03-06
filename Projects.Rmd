@@ -7,10 +7,12 @@ output: html_document
 <br>
 
 # [Developing Brain Lab](https://www.developingbrain.ca/) 
+- Principal Investigator: Dr. Emma Duerden
 - Our research uses behavioural assessments & advanced brain imaging techniques to study cognitive development in infants and children
 <br>
 
 # [Culham Lab](http://www.culhamlab.com/)
+- Principal Investigator: Dr. Jody Culham
 - A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. Our lab has developed unique techniques for bringing the "real world" into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy. 
 
 <br>
