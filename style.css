@@ -1,4 +1,7 @@
-
+html, body {
+     min-height: 100%;
+     min-width: 100%;
+}
 .social-icon {display: inline-block; margin: 0 10px}
 
 .polaroid {
@@ -10,4 +13,5 @@ white;
     box-shadow: 2px 4px 8px 3px 
 Gainsboro;
 }
+
 
