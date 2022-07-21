@@ -6,7 +6,7 @@ output: html_document
 
 <img src="images/fMRIPrep_MichaelaKent.jpg" style="width:100%" vspace="20"> 
 <center>
-Please feel free to [email me](mailto:mkent28@uwo.ca) or reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
+Please feel free to [email me](mailto:mkent28@uwo.ca), reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
 
 <a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
 <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
