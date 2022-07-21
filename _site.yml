@@ -9,7 +9,7 @@ navbar:
       href: about.html
     - text: "Projects"     
       href: projects.html
-    - text: "SciComm"
+    - text: "Science Communication"
       href: scicomm.html
   right: 
     - icon: fa-envelope fa-lg

@@ -23,12 +23,12 @@ output: html_document
 
 <img src="images/ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"> 
 
-- <i class="fa-regular fa-cubes"></i>[Preprint](https://psyarxiv.com/3uj4g/)
-- <i class="fa-solid fa-note"></i> [PDF](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
+- [Preprint](https://psyarxiv.com/3uj4g/)
+- [PDF](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
 - [Preregistration](https://osf.io/tuq4a/)
-- <i class="fa-solid fa-head-side-brain"></i>[NeuroVault](https://neurovault.org/collections/6615/)
-- <i class="fa-solid fa-code"></i>[Code](https://gitlab.com/hortensius/anthrom)
-- <i class="fa-solid fa-box-archive"></i>[Dataset](https://osf.io/rg5kn/)
+- [NeuroVault](https://neurovault.org/collections/6615/)
+- [Code](https://gitlab.com/hortensius/anthrom)
+- [Dataset](https://osf.io/rg5kn/)
 
 # [Photogrammetry for fNIRS](https://zenodo.org/record/4146985#.YiANgWRufvW)
 
