@@ -1,5 +1,5 @@
 ---
-title: "SciComm"
+title: "Science Communication"
 output: html_document
 ---
 
@@ -54,6 +54,20 @@ brain scans and how certain areas of the brain are activated.
 <br>
 <br>
 <br>
+
+# The Dorsal Column
+
+Recent piece for the [The Dorsal Column](https://songsuwo.ca/dc-about-us):
+
+<br>
+<div class="polaroid">
+  <img src="images/Michaela_TDC.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"> 
+</div>
+
+<br>
+
+**The Damaging Effects of Orphanages on the Brain** 
+**Michaela Kent** 
 
 # Zoom Fatigue
 
