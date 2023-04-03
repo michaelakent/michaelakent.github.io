@@ -8,7 +8,7 @@ output: html_document
 <br>
 <br>
 
-## The Dorsal Column Article
+## The Dorsal Column 
 
 The Dorsal Column is a quarterly publication sharing science communication pieces related to brain research. Each issue features articles written and reviewed by a team of graduate students and postdoctoral fellows in affiliation with the Society of Neuroscience Graduate Students at Western University.
 <br>
@@ -19,7 +19,7 @@ The Dorsal Column is a quarterly publication sharing science communication piece
 <br>
 <br>
 
-Recent piece for the [The Dorsal Column](https://songsuwo.ca/dc-about-us):
+Recent pieces for the [The Dorsal Column](https://songsuwo.ca/dc-about-us):
 <br>
 <br>
 **The Damaging Effects of Orphanages on the Brain** 
@@ -33,6 +33,29 @@ Written by Michaela Kent
 <br>
 <br>
 <br>
+<div class="polaroid">
+  <img src="images/TDC_Michaela.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"> 
+</div>
+
+<br>
+<br>
+**The amygdala, anxiety and Autism Spectrum Disorder** 
+<br>
+<br>
+Written by Michaela Kent
+<br>
+[Read the article here](https://songsuwo.ca/thedorsalcolumn/vol3-iss4-michaela-kent)
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Inspiring Minds
+<div class="polaroid">
+  <img src="images/IM-Michaela-Kent.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"> 
+</div>
+
 
 ## Human Connection
 
