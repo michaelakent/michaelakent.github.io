@@ -13,7 +13,8 @@
 
 <title>About</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -58,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -82,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -234,7 +243,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -298,20 +307,50 @@ $(document).ready(function () {
 <div class="polaroid">
 <p><img src="images/MichaelaKent_headshot.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"></p>
 </div>
-<p><br> Michaela Kent is a PhD student in the Neuroscience program at Western University in London, Ontario, Canada. She is co-supervised by <a href="https://www.developingbrain.ca/">Dr. Emma Duerden</a> and <a href="http://www.culhamlab.com/">Dr. Jody Culham</a>.</p>
-<p>Her interest in the developing brain has been a driving factor behind previous work. During an undergraduate degree at Glasgow Caledonian University, Michaela wrote a dissertation focussing on the neurodevelopment of children raised in orphanages. She then completed a Master’s degree in Brain Science at the University of Glasgow, working primarily on a functional magnetic resonance imaging (fMRI) study exploring aspects of social cognition. Whilst in Glasgow, Michaela worked with <a href="http://www.ruudhortensius.nl/">Dr. Ruud Hortensius</a> and as part of the <a href="https://www.so-bots.com/">Social Brain in Action Lab</a> on their Social Robots research project. Building on her neuroimaging background, Michaela is now working to use functional near-infrared spectroscopy (fNIRS) to study the developing brain in naturalistic settings. Specifically, she uses fNIRS alongside behavioural measures to study how people interact in different environments.</p>
-<p>Outside of her research, Michaela serves as the Vice President for the <a href="https://songsuwo.ca/execs">Society of Neuroscience Graduate Students</a> and a graduate teaching assistant at Western University.</p>
+<p><br> Michaela Kent is a PhD candidate in the Neuroscience program at
+Western University in London, Ontario, Canada. She is co-supervised by
+<a href="https://www.developingbrain.ca/">Dr. Emma Duerden</a> and <a
+href="http://www.culhamlab.com/">Dr. Jody Culham</a>.</p>
+<p>Her interest in the developing brain has been a driving factor behind
+previous work. During an undergraduate degree at Glasgow Caledonian
+University, Michaela wrote a dissertation focussing on the
+neurodevelopment of children raised in orphanages. She then completed a
+Master’s degree in Brain Science at the University of Glasgow, working
+primarily on a functional magnetic resonance imaging (fMRI) study
+exploring aspects of social cognition. Whilst in Glasgow, Michaela
+worked with <a href="http://www.ruudhortensius.nl/">Dr. Ruud
+Hortensius</a> and as part of the <a
+href="https://www.so-bots.com/">Social Brain in Action Lab</a> on their
+Social Robots research project. Building on her neuroimaging background,
+Michaela is now working to use functional near-infrared spectroscopy
+(fNIRS) to study the developing brain in naturalistic settings.
+Specifically, she uses fNIRS alongside behavioural measures to study how
+people interact in different environments.</p>
+<p>Outside of her research, Michaela serves as the Vice President for
+the <a href="https://songsuwo.ca/execs">Society of Neuroscience Graduate
+Students</a> and a graduate teaching assistant at Western
+University.</p>
 <p><br></p>
 <div id="education" class="section level1">
 <h1>Education</h1>
-<p><br> PhD <em>(Expected 2024)</em>, Western University, London, Ontario, Canada</p>
-<p>MSc <em>(2019, with Distinction)</em>, University of Glasgow, Glasgow, Scotland, UK</p>
-BSc <em>(2018, First Class Honours)</em>, Glasgow Caledonian University, Glasgow, Scotland, UK <br> <br>
+<p><br> PhD <em>(Expected 2024)</em>, Western University, London,
+Ontario, Canada</p>
+<p>MSc <em>(2019, with Distinction)</em>, University of Glasgow,
+Glasgow, Scotland, UK</p>
+BSc <em>(2018, First Class Honours)</em>, Glasgow Caledonian University,
+Glasgow, Scotland, UK <br> <br>
 <center>
 <p><img src="images/MichaelaKent_Robot.JPG" vspace="40" width="60%"></p>
 <br>
 <center>
-<p><a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a> <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a> <a href=https://twitter.com/michaelakent_> <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a> <a href=https://www.linkedin.com/in/michaelakent/> <img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a></p>
+<p><a href= mailto:mkent28@uwo.ca>
+<img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
+<a href=http://github.com/michaelakent/>
+<img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://twitter.com/michaelakent_>
+<img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://www.linkedin.com/in/michaelakent/>
+<img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a></p>
 </div>
 
 
