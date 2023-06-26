@@ -8,6 +8,8 @@ output: html_document
 <center>
 Please feel free to [email me](mailto:mkent28@uwo.ca), reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
 
+This website was created using R and is hosted on github. Please let me know if you notice any issues or broken links.
+
 <a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
 <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
 <a href=https://twitter.com/michaelakent_> <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>

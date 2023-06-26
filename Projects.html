@@ -13,7 +13,8 @@
 
 <title>Projects</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -58,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -82,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -234,7 +243,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -295,45 +304,98 @@ $(document).ready(function () {
 </div>
 
 
-<p><br> <em>Labs I am currently working in:</em> <br></p>
-<div id="developing-brain-lab" class="section level2">
-<h2><a href="https://www.developingbrain.ca/">Developing Brain Lab</a></h2>
+<p><br> <strong>Current labs:</strong> <br></p>
+<div id="developing-brain-lab" class="section level1">
+<h1><a href="https://www.developingbrain.ca/">Developing Brain
+Lab</a></h1>
 <ul>
-<li>Principal Investigator: Dr. Emma Duerden</li>
-<li>Our research uses behavioural assessments &amp; advanced brain imaging techniques to study cognitive development in infants and children <br></li>
+<li>Principal Investigator: <a
+href="https://www.developingbrain.ca/">Dr. Emma Duerden</a></li>
+<li>Our research uses behavioural assessments &amp; advanced brain
+imaging techniques to study cognitive development in infants and
+children <br></li>
 </ul>
 </div>
-<div id="culham-lab" class="section level2">
-<h2><a href="http://www.culhamlab.com/">Culham Lab</a></h2>
+<div id="culham-lab" class="section level1">
+<h1><a href="http://www.culhamlab.com/">Culham Lab</a></h1>
 <ul>
-<li>Principal Investigator: Dr. Jody Culham</li>
-<li>A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. Our lab has developed unique techniques for bringing the “real world” into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy.</li>
-</ul>
-<p><br> <em>Please find links to projects I have previously worked on below:</em> <br></p>
-</div>
-<div id="anthropomorphism-and-theory-of-mind" class="section level2">
-<h2><a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542">Anthropomorphism and Theory-of-Mind</a></h2>
-<p><img src="images/ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"></p>
-<ul>
-<li><a href="https://psyarxiv.com/3uj4g/">Preprint</a></li>
-<li><a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542">PDF</a></li>
-<li><a href="https://osf.io/tuq4a/">Preregistration</a></li>
-<li><a href="https://neurovault.org/collections/6615/">NeuroVault</a></li>
-<li><a href="https://gitlab.com/hortensius/anthrom">Code</a></li>
-<li><a href="https://osf.io/rg5kn/">Dataset</a></li>
+<li>Principal Investigator: <a href="http://www.culhamlab.com/">Dr. Jody
+Culham</a></li>
+<li>A major theme of the lab is Immersive Neuroscience: bringing
+cognitive neuroscience research closer to the real world. The Culham lab
+has developed unique techniques for bringing the “real world” into the
+constrained environment of the fMRI scanner and is moving in new
+directions with simulated reality and functional near-infrared
+spectroscopy (fNIRS).</li>
 </ul>
 </div>
-<div id="photogrammetry-for-fnirs" class="section level2">
-<h2><a href="https://zenodo.org/record/4146985#.YiANgWRufvW">Photogrammetry for fNIRS</a></h2>
+<div id="nelson-lab" class="section level1">
+<h1><a
+href="https://www.childrenshospital.org/research/labs/nelson-laboratory-research">Nelson
+Lab</a></h1>
 <ul>
-<li><a href="https://zenodo.org/record/4146985#.YiANgWRufvW">Zenodo</a></li>
-<li>A user guide to using photogrammetry for localisation of optode locations in functional near-infrared (fNIRS) studies.</li>
+<li>Principal Investigator: <a
+href="https://www.gse.harvard.edu/faculty/charles-nelson-iii">Dr. Charles
+Nelson III</a></li>
+<li>Michaela is currently a visiting researcher at the Labs of Cognitive
+Neuroscience at Boston Children’s Hospital. Here she is working on the
+Emotion Project, which aims to examine whether individual differences in
+processing facial emotion in infancy are related to later developmental
+outcomes. <br> <br></li>
+</ul>
+<p><strong>Previous labs and projects:</strong> <br></p>
+</div>
+<div id="social-brain-in-action-lab-and-social-robots"
+class="section level1">
+<h1><a href="https://www.soba-lab.com/">Social Brain in Action Lab</a>
+and <a href="https://www.so-bots.com/">Social Robots</a></h1>
+<ul>
+<li>Principal Investigator: <a
+href="https://www.soba-lab.com/people">Dr. Emily Cross</a></li>
+<li>Supervisor: <a href="http://www.ruudhortensius.nl/">Dr. Ruud
+Hortensius</a></li>
+</ul>
+<p><br> <a
+href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542">Anthropomorphism
+and Theory-of-Mind</a></p>
+<ul>
+<li><p>The culmination of Michaela’s Master’s project at the University
+of Glasgow. Below are the resources for the publication “Exploring the
+relationship between anthropomorphism and theory-of-mind in brain and
+behaviour”, Human Brain Mapping.</p></li>
+<li><p>We place emphasis on open, reproducible science by sharing data
+and code.
+<img src="images/ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"></p></li>
+<li><p><a
+href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542">PDF</a></p></li>
+<li><p><a href="https://psyarxiv.com/3uj4g/">Preprint</a></p></li>
+<li><p><a href="https://osf.io/tuq4a/">Preregistration</a></p></li>
+<li><p><a
+href="https://neurovault.org/collections/6615/">NeuroVault</a></p></li>
+<li><p><a href="https://gitlab.com/hortensius/anthrom">Code</a></p></li>
+<li><p><a href="https://osf.io/rg5kn/">Dataset</a></p></li>
+</ul>
+<p><br> <a
+href="https://zenodo.org/record/4146985#.YiANgWRufvW">Photogrammetry for
+fNIRS</a></p>
+<ul>
+<li>A user guide to using photogrammetry for localisation of optode
+locations in functional near-infrared (fNIRS) studies.</li>
+<li><a href="https://zenodo.org/record/4146985#.YiANgWRufvW">Zenodo</a>
+link to PDF</li>
 </ul>
 <center>
 <p><img src="images/Photogram3_MichaelaKent.jpeg" style="width:20%"  hspace="30" vspace="20"><img src="images/Photogram1_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20"><img src="images/Photogram2_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20"></p>
 <br> <br>
 <center>
-<p><a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a> <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a> <a href=https://twitter.com/michaelakent_> <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a> <a href=https://www.linkedin.com/in/michaelakent/> <img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a></p>
+<p><a href= mailto:mkent28@uwo.ca>
+<img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
+<a href=http://github.com/michaelakent/>
+<img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://twitter.com/michaelakent_>
+<img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>
+<a href=https://www.linkedin.com/in/michaelakent/>
+<img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a></p>
 </div>
 
 

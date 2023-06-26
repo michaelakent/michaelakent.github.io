@@ -3,37 +3,51 @@ title: "Projects"
 output: html_document
 ---
 <br>
-*Labs I am currently working in:* 
+**Current labs:** 
 <br>
 
-## [Developing Brain Lab](https://www.developingbrain.ca/) 
-- Principal Investigator: Dr. Emma Duerden
+# [Developing Brain Lab](https://www.developingbrain.ca/) 
+- Principal Investigator: [Dr. Emma Duerden](https://www.developingbrain.ca/)
 - Our research uses behavioural assessments & advanced brain imaging techniques to study cognitive development in infants and children
 <br>
 
-## [Culham Lab](http://www.culhamlab.com/)
-- Principal Investigator: Dr. Jody Culham
-- A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. Our lab has developed unique techniques for bringing the "real world" into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy. 
+# [Culham Lab](http://www.culhamlab.com/)
+- Principal Investigator: [Dr. Jody Culham](http://www.culhamlab.com/)
+- A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. The Culham lab has developed unique techniques for bringing the "real world" into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy (fNIRS). 
+
+# [Nelson Lab](https://www.childrenshospital.org/research/labs/nelson-laboratory-research)
+- Principal Investigator: [Dr. Charles Nelson III](https://www.gse.harvard.edu/faculty/charles-nelson-iii)
+- Michaela is currently a visiting researcher at the Labs of Cognitive Neuroscience at Boston Children's Hospital. Here she is working on the Emotion Project, which aims to examine whether individual differences in processing facial emotion in infancy are related to later developmental outcomes.
+<br>
+<br>
+
+**Previous labs and projects:**
+<br>
+
+# [Social Brain in Action Lab](https://www.soba-lab.com/) and [Social Robots](https://www.so-bots.com/)
+- Principal Investigator: [Dr. Emily Cross](https://www.soba-lab.com/people)
+- Supervisor: [Dr. Ruud Hortensius](http://www.ruudhortensius.nl/)
 
 <br>
-*Please find links to projects I have previously worked on below:*
-<br>
+[Anthropomorphism and Theory-of-Mind](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
 
-## [Anthropomorphism and Theory-of-Mind](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
-
+- The culmination of Michaela's Master's project at the University of Glasgow. Below are the resources for the publication "Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour", Human Brain Mapping. 
+- We place emphasis on open, reproducible science by sharing data and code.
 <img src="images/ToM.jpg" style="width:30%" align="right" hspace="50" vspace="20"> 
 
-- [Preprint](https://psyarxiv.com/3uj4g/)
 - [PDF](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542)
+- [Preprint](https://psyarxiv.com/3uj4g/)
 - [Preregistration](https://osf.io/tuq4a/)
 - [NeuroVault](https://neurovault.org/collections/6615/)
 - [Code](https://gitlab.com/hortensius/anthrom)
 - [Dataset](https://osf.io/rg5kn/)
 
-## [Photogrammetry for fNIRS](https://zenodo.org/record/4146985#.YiANgWRufvW)
+<br>
+[Photogrammetry for fNIRS](https://zenodo.org/record/4146985#.YiANgWRufvW)
 
-- [Zenodo](https://zenodo.org/record/4146985#.YiANgWRufvW)
 - A user guide to using photogrammetry for localisation of optode locations in functional near-infrared (fNIRS) studies. 
+- [Zenodo](https://zenodo.org/record/4146985#.YiANgWRufvW) link to PDF
+
 
 <center>
 <img src="images/Photogram3_MichaelaKent.jpeg" style="width:20%"  hspace="30" vspace="20"><img src="images/Photogram1_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20"><img src="images/Photogram2_MichaelaKent.jpeg" style="width:20%" hspace="30" vspace="20">
