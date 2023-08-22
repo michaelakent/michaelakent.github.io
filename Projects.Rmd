@@ -10,7 +10,7 @@ output: html_document
 
 - Principal Investigator: [Dr. Emma Duerden](https://www.developingbrain.ca/)
 
-- Our research uses behavioural assessments & advanced brain imaging techniques to study cognitive development in infants and children
+- Our research uses behavioural assessments & advanced brain imaging techniques to study cognitive development in infants and children. In the DBL, Michaela is involved in neuroimaging studies of social cognition and also helps in the collection of brain data from newborn babies at Victoria Hospital. 
 <br>
 <br>
 
@@ -18,7 +18,7 @@ output: html_document
 
 - Principal Investigator: [Dr. Jody Culham](http://www.culhamlab.com/)
 
-- A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. The Culham lab has developed unique techniques for bringing the "real world" into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy (fNIRS). 
+- A major theme of the lab is Immersive Neuroscience: bringing cognitive neuroscience research closer to the real world. The Culham Lab has developed unique techniques for bringing the "real world" into the constrained environment of the fMRI scanner and is moving in new directions with simulated reality and functional near-infrared spectroscopy (fNIRS). In the Culham Lab, Michaela studies the effects of live interactions and visual realism on brain activation measured with optical neuroimaging.
 <br>
 <br>
 
@@ -26,7 +26,7 @@ output: html_document
 
 - Principal Investigator: [Dr. Charles Nelson III](https://www.gse.harvard.edu/faculty/charles-nelson-iii)
 
-- Michaela is currently a visiting researcher at the Labs of Cognitive Neuroscience at Boston Children's Hospital. Here she is working on the Emotion Project, which aims to examine whether individual differences in processing facial emotion in infancy are related to later developmental outcomes.
+- Michaela is currently a visiting researcher at the Laboratories of Cognitive Neuroscience at Boston Children's Hospital and Harvard Medical School. Here, she is working on the Emotion Project, which aims to examine whether individual differences in processing facial emotion in infancy are related to later developmental outcomes.
 <br>
 <br>
 
