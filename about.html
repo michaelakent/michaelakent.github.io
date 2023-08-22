@@ -13,7 +13,7 @@
 
 <title>About</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -181,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -307,9 +300,10 @@ $(document).ready(function () {
 <div class="polaroid">
 <p><img src="images/MichaelaKent_headshot.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"></p>
 </div>
-<p><br> Michaela Kent is a PhD candidate in the Neuroscience program at
-Western University in London, Ontario, Canada. She is co-supervised by
-<a href="https://www.developingbrain.ca/">Dr. Emma Duerden</a> and <a
+<p><br> Michaela Kent is a PhD candidate in the Neuroscience Graduate
+Program at Western University in London, Ontario, Canada. She is based
+at the Western Institute for Neuroscience and is co-supervised by <a
+href="https://www.developingbrain.ca/">Dr. Emma Duerden</a> and <a
 href="http://www.culhamlab.com/">Dr. Jody Culham</a>.</p>
 <p>Her interest in the developing brain has been a driving factor behind
 previous work. During an undergraduate degree at Glasgow Caledonian
@@ -320,15 +314,16 @@ primarily on a functional magnetic resonance imaging (fMRI) study
 exploring aspects of social cognition. Whilst in Glasgow, Michaela
 worked with <a href="http://www.ruudhortensius.nl/">Dr. Ruud
 Hortensius</a> and as part of the <a
-href="https://www.so-bots.com/">Social Brain in Action Lab</a> on their
-Social Robots research project. Building on her neuroimaging background,
-Michaela is now working to use functional near-infrared spectroscopy
-(fNIRS) to study the developing brain in naturalistic settings.
-Specifically, she uses fNIRS alongside behavioural measures to study how
-people interact in different environments.</p>
-<p>Outside of her research, Michaela serves as the Vice President for
-the <a href="https://songsuwo.ca/execs">Society of Neuroscience Graduate
-Students</a> and a graduate teaching assistant at Western
+href="https://www.so-bots.com/">Social Brain in Action Lab</a> on the
+ERC-funded Social Robots research project. Building on her neuroimaging
+background, Michaela is now working to use functional near-infrared
+spectroscopy (fNIRS) to study the developing brain in naturalistic
+settings. Specifically, she uses fNIRS and behavioural measures to study
+how socio-cognitive skills develop and how brain responses to social
+interactions might be influenced by the environment.</p>
+<p>Outside of her research, Michaela serves on the Executive Committee
+for the <a href="https://songsuwo.ca/execs">Society of Neuroscience
+Graduate Students</a> and as a graduate teaching assistant at Western
 University.</p>
 <p><br></p>
 <div id="education" class="section level1">

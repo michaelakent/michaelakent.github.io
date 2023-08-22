@@ -1,6 +1,8 @@
 ---
 title: "Science Communication"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 <br>
@@ -12,7 +14,8 @@ output: html_document
 
 The Dorsal Column is a quarterly publication sharing science communication pieces related to brain research. Each issue features articles written and reviewed by a team of graduate students and postdoctoral fellows in affiliation with the Society of Neuroscience Graduate Students at Western University.
 <br>
-Recent pieces for the [The Dorsal Column](https://songsuwo.ca/dc-about-us):
+<br>
+**Recent pieces for the [The Dorsal Column](https://songsuwo.ca/dc-about-us):**
 <br>
 <br>
 <div class="polaroid">
@@ -98,7 +101,7 @@ Read about how Michaela's work is using optical neuroimaging to understand socia
 <br>
 <br>
 
-## Zoom Fatigue
+## Podcast
 
 Michaela featured as a guest speaker on the podcast Brain Matter Chatter, a podcast that aims to raise awareness about issues surrounding mental health in academia. For more information or to hear other episodes, please visit their website [here](https://songsuwo.ca/brainmatterchatter).
 
@@ -113,7 +116,8 @@ Michaela featured as a guest speaker on the podcast Brain Matter Chatter, a podc
 <center>
 
 
-## Translating Mind Into Matter
+## Art-Science Collaborations
+**Translating Mind into Matter**
 
 This was part of the Art-Science Collaboration hosted at [Neuroscience Research Day, 2023](https://songsuwo.ca/nrd2023). This is a unique opportunity for Neuroscience researchers to pair up with an artist and communicate their research through art. For more information and to see other artwork submissions please visit the website [here](https://songsuwo.ca/brain-art). 
 <br>
@@ -131,8 +135,9 @@ Jessica Joyce is an MFA student in the Visual Arts Department at Western Univers
 </center>
 
 
-
-## Human Connection
+<br>
+<br>
+**Human Connection**
 <br>
 <div class="polaroid">
   <img src="images/AudraBartelMichaelaKent.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"> 

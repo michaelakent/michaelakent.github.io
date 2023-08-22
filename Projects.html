@@ -13,7 +13,7 @@
 
 <title>Projects</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -181,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -305,55 +298,49 @@ $(document).ready(function () {
 
 
 <p><br> <strong>Current labs:</strong> <br></p>
-<div id="developing-brain-lab" class="section level1">
-<h1><a href="https://www.developingbrain.ca/">Developing Brain
-Lab</a></h1>
+<p><strong><a href="https://www.developingbrain.ca/">Developing Brain
+Lab</a></strong></p>
 <ul>
-<li>Principal Investigator: <a
-href="https://www.developingbrain.ca/">Dr. Emma Duerden</a></li>
-<li>Our research uses behavioural assessments &amp; advanced brain
+<li><p>Principal Investigator: <a
+href="https://www.developingbrain.ca/">Dr. Emma Duerden</a></p></li>
+<li><p>Our research uses behavioural assessments &amp; advanced brain
 imaging techniques to study cognitive development in infants and
-children <br></li>
+children <br> <br></p></li>
 </ul>
-</div>
-<div id="culham-lab" class="section level1">
-<h1><a href="http://www.culhamlab.com/">Culham Lab</a></h1>
+<p><strong><a href="http://www.culhamlab.com/">Culham
+Lab</a></strong></p>
 <ul>
-<li>Principal Investigator: <a href="http://www.culhamlab.com/">Dr. Jody
-Culham</a></li>
-<li>A major theme of the lab is Immersive Neuroscience: bringing
+<li><p>Principal Investigator: <a
+href="http://www.culhamlab.com/">Dr. Jody Culham</a></p></li>
+<li><p>A major theme of the lab is Immersive Neuroscience: bringing
 cognitive neuroscience research closer to the real world. The Culham lab
 has developed unique techniques for bringing the “real world” into the
 constrained environment of the fMRI scanner and is moving in new
 directions with simulated reality and functional near-infrared
-spectroscopy (fNIRS).</li>
+spectroscopy (fNIRS). <br> <br></p></li>
 </ul>
-</div>
-<div id="nelson-lab" class="section level1">
-<h1><a
+<p><strong><a
 href="https://www.childrenshospital.org/research/labs/nelson-laboratory-research">Nelson
-Lab</a></h1>
+Lab</a></strong></p>
 <ul>
-<li>Principal Investigator: <a
+<li><p>Principal Investigator: <a
 href="https://www.gse.harvard.edu/faculty/charles-nelson-iii">Dr. Charles
-Nelson III</a></li>
-<li>Michaela is currently a visiting researcher at the Labs of Cognitive
-Neuroscience at Boston Children’s Hospital. Here she is working on the
-Emotion Project, which aims to examine whether individual differences in
-processing facial emotion in infancy are related to later developmental
-outcomes. <br> <br></li>
+Nelson III</a></p></li>
+<li><p>Michaela is currently a visiting researcher at the Labs of
+Cognitive Neuroscience at Boston Children’s Hospital. Here she is
+working on the Emotion Project, which aims to examine whether individual
+differences in processing facial emotion in infancy are related to later
+developmental outcomes. <br> <br></p></li>
 </ul>
-<p><strong>Previous labs and projects:</strong> <br></p>
-</div>
-<div id="social-brain-in-action-lab-and-social-robots"
-class="section level1">
-<h1><a href="https://www.soba-lab.com/">Social Brain in Action Lab</a>
-and <a href="https://www.so-bots.com/">Social Robots</a></h1>
+<p><strong>Previous labs and projects:</strong> <br> <br> <strong><a
+href="https://www.soba-lab.com/">Social Brain in Action Lab</a></strong>
+and <strong><a href="https://www.so-bots.com/">Social
+Robots</a></strong></p>
 <ul>
-<li>Principal Investigator: <a
-href="https://www.soba-lab.com/people">Dr. Emily Cross</a></li>
-<li>Supervisor: <a href="http://www.ruudhortensius.nl/">Dr. Ruud
-Hortensius</a></li>
+<li><p>Principal Investigator: <a
+href="https://www.soba-lab.com/people">Dr. Emily Cross</a></p></li>
+<li><p>Supervisor: <a href="http://www.ruudhortensius.nl/">Dr. Ruud
+Hortensius</a></p></li>
 </ul>
 <p><br> <a
 href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25542">Anthropomorphism
@@ -396,7 +383,6 @@ link to PDF</li>
 <img src="logos/twitter-brands.svg" style="width:5%" hspace="10"></a>
 <a href=https://www.linkedin.com/in/michaelakent/>
 <img src="logos/linkedin-in-brands.svg" style="width:5%" hspace="10"></a></p>
-</div>
 
 
 
