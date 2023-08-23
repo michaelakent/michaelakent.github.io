@@ -2,22 +2,12 @@
 title: "Home"
 output: html_document
 ---
-<style>
-  @media (max-width: 768px) {
-    .image-container {
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 20px;
-      padding-left: 10px;
-    }
-</style>
 
 <img src="images/fMRIPrep_MichaelaKent.jpg" style="width:100%" vspace="20"> 
 <center>
 Please feel free to [email me](mailto:mkent28@uwo.ca), reach out on [Twitter](https://twitter.com/michaelakent_) or [LinkedIn](https://www.linkedin.com/in/michaelakent/)! 
 
-This website was created using R markdown and is hosted on github. Please let me know if you notice any issues or broken links.
+This website was created using R markdown and is hosted on github. Please let me know if you notice any issues or broken links. 
 
 <a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
 <a href=http://github.com/michaelakent/> <img src="logos/github-brands.svg" style="width:5%" hspace="10"></a>
