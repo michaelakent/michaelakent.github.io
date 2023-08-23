@@ -297,12 +297,49 @@ $(document).ready(function () {
 </div>
 
 
-<div class="polaroid">
-<p><img src="images/MichaelaKent_headshot.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"></p>
+<style>
+  .image-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    padding-left: 100px;
+  }
+  
+  .image {
+    max-width: 40%;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+   .image.large {
+    max-width: 100%;
+    padding-right: 40px;
+  }
+  
+  .text {
+    max-width: 60%;
+    padding-left: 20px;
+  }
+
+  .text.small{
+    font-size: 12px; 
+  }
+  
+  .text.extra-padding {
+    padding-left: 100px; 
+    max-width:100%;
+  }
+</style>
+<div class="image-container">
+<div class="image">
+<img src="images/MichaelaKent_headshot.jpg">
 </div>
-<p><br> Michaela Kent is a PhD candidate in the Neuroscience Graduate
-Program at Western University in London, Ontario, Canada. She is based
-at the Western Institute for Neuroscience and is co-supervised by <a
+<div class="text">
+<p>
+<p>Michaela Kent is a PhD candidate in the Neuroscience Graduate Program
+at Western University in London, Ontario, Canada. She is based at the
+Western Institute for Neuroscience and is co-supervised by <a
 href="https://www.developingbrain.ca/">Dr. Emma Duerden</a> and <a
 href="http://www.culhamlab.com/">Dr. Jody Culham</a>.</p>
 <p>Her interest in the developing brain has been a driving factor behind
@@ -321,19 +358,23 @@ spectroscopy (fNIRS) to study the developing brain in naturalistic
 settings. Specifically, she uses fNIRS and behavioural measures to study
 how socio-cognitive skills develop and how brain responses to social
 interactions might be influenced by the environment.</p>
-<p>Outside of her research, Michaela serves on the Executive Committee
-for the <a href="https://songsuwo.ca/execs">Society of Neuroscience
-Graduate Students</a> and as a graduate teaching assistant at Western
-University.</p>
+Outside of her research, Michaela serves on the Executive Committee for
+the <a href="https://songsuwo.ca/execs">Society of Neuroscience Graduate
+Students</a> and as a graduate teaching assistant at Western University.
+</div>
+</div>
 <p><br></p>
 <div id="education" class="section level1">
 <h1>Education</h1>
-<p><br> PhD <em>(Expected 2024)</em>, Western University, London,
-Ontario, Canada</p>
+<div class="text extra-padding">
+<p>PhD <em>(Expected 2024)</em>, Western University, London, Ontario,
+Canada</p>
 <p>MSc <em>(2019, with Distinction)</em>, University of Glasgow,
 Glasgow, Scotland, UK</p>
-BSc <em>(2018, First Class Honours)</em>, Glasgow Caledonian University,
-Glasgow, Scotland, UK <br> <br>
+<p>BSc <em>(2018, First Class Honours)</em>, Glasgow Caledonian
+University, Glasgow, Scotland, UK</p>
+</div>
+<br> <br>
 <center>
 <p><img src="images/MichaelaKent_Robot.JPG" vspace="40" width="60%"></p>
 <br>

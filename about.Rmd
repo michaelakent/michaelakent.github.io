@@ -3,29 +3,62 @@ title: "About"
 output: html_document
 ---
 
-<div class="polaroid">
-  <img src="images/MichaelaKent_headshot.jpg" align="left" style="padding-right: 20px; padding-left: 20px;" vspace="40"> 
-</div>
+<style>
+  .image-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    padding-left: 100px;
+  }
+  
+  .image {
+    max-width: 40%;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+   .image.large {
+    max-width: 100%;
+    padding-right: 40px;
+  }
+  
+  .text {
+    max-width: 60%;
+    padding-left: 20px;
+  }
 
-<br>
-Michaela Kent is a PhD candidate in the Neuroscience Graduate Program at Western University in London, Ontario, Canada. She is based at the Western Institute for Neuroscience and is co-supervised by [Dr. Emma Duerden](https://www.developingbrain.ca/) and [Dr. Jody Culham](http://www.culhamlab.com/).
-
+  .text.small{
+    font-size: 12px; 
+  }
+  
+  .text.extra-padding {
+    padding-left: 100px; 
+    max-width:100%;
+  }
+</style>
+<div class="image-container">
+  <div class="image">
+  <img src="images/MichaelaKent_headshot.jpg"> 
+  </div>
+  <div class="text">
+  <p> Michaela Kent is a PhD candidate in the Neuroscience Graduate Program at Western University in London, Ontario, Canada. She is based at the Western Institute for Neuroscience and is co-supervised by [Dr. Emma Duerden](https://www.developingbrain.ca/) and [Dr. Jody Culham](http://www.culhamlab.com/).
 
 Her interest in the developing brain has been a driving factor behind previous work. During an undergraduate degree at Glasgow Caledonian University, Michaela wrote a dissertation focussing on the neurodevelopment of children raised in orphanages. She then completed a Master's degree in Brain Science at the University of Glasgow, working primarily on a functional magnetic resonance imaging (fMRI) study exploring aspects of social cognition. Whilst in Glasgow, Michaela worked with [Dr. Ruud Hortensius](http://www.ruudhortensius.nl/) and as part of the [Social Brain in Action Lab](https://www.so-bots.com/) on the ERC-funded Social Robots research project. Building on her neuroimaging background, Michaela is now working to use functional near-infrared spectroscopy (fNIRS) to study the developing brain in naturalistic settings. Specifically, she uses fNIRS and behavioural measures to study how socio-cognitive skills develop and how brain responses to social interactions might be influenced by the environment. 
 
-
 Outside of her research, Michaela serves on the Executive Committee for the [Society of Neuroscience Graduate Students](https://songsuwo.ca/execs) and as a graduate teaching assistant at Western University. 
-
+</div>
+</div>
 <br>
 
 # Education
-
-<br>
+<div class = "text extra-padding">
 PhD *(Expected 2024)*, Western University, London, Ontario, Canada
 
 MSc *(2019, with Distinction)*, University of Glasgow, Glasgow, Scotland, UK
 
 BSc *(2018, First Class Honours)*, Glasgow Caledonian University, Glasgow, Scotland, UK
+</div>
 <br>
 <br>
 <center>
