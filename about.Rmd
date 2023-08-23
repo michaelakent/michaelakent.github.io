@@ -4,6 +4,15 @@ output: html_document
 ---
 
 <style>
+  @media (max-width: 768px) {
+    .image-container {
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-left: 10px;
+    }
+    
   .image-container {
     display: flex;
     align-items: center;
@@ -60,11 +69,8 @@ MSc *(2019, with Distinction)*, University of Glasgow, Glasgow, Scotland, UK
 BSc *(2018, First Class Honours)*, Glasgow Caledonian University, Glasgow, Scotland, UK
 </div>
 <br>
-<br>
 <center>
 <img src="images/MichaelaKent_Robot.JPG" vspace="40" width="60%">
-
-
 <br>
 <center>
 <a href= mailto:mkent28@uwo.ca> <img src="logos/envelope-solid.svg" style="width:5%" hspace="10"></a>
