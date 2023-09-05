@@ -1,0 +1,43 @@
+---
+title: "Publications"
+output: html_document
+---
+<br>
+<br>
+**Publications** 
+<br>
+<br>
+Ruud Hortensius* , **Michaela Kent*** , Kohinoor M. Darda, Laura Jastrzab, Kami Koldewyn, Richard Ramsey & Emily S. Cross (2021). [Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25542). *Human Brain Mapping*.
+<br>
+* These authors contributed equally
+<br>
+[Full Text](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25542) | [Preprint](https://psyarxiv.com/3uj4g/) | [Preregistration](https://osf.io/tuq4a) | [Data](https://osf.io/rg5kn/) | [NeuroVault](https://neurovault.org/collections/6615/) | [Code](https://gitlab.com/hortensius/anthrom)
+<br>
+<br>
+Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Timmerman, Ruud Hortensius & Emily S. Cross (2020). A manual to digitising fNIRS probes with photogrammetry as described in Clausner et. al. (2017). *Zenodo*.
+<br>
+[Zenodo](https://zenodo.org/record/4146985) | [PDF](https://www.soba-lab.com/_files/ugd/3e5863_cf150f119e2640d1a0c6963ea7fc20f4.pdf) 
+<br>
+<br>
+**Book Chapter** 
+<br>
+<br>
+**Michaela Kent**, Diane Seguin, Emma G. Duerden (in press). Technology-based learning tools and face processing in children with Autism Spectrum Disorder. *Handbook of Neural Engineering, Volume 5: Small Vessel Diseases of Brain*.
+<br>
+<br>
+**Poster Presentations** 
+<br>
+<br>
+**Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2023, Aug). Exploring whether evoked-responses are influenced by animacy and visual realism during virtual social interactions using fNIRS. Poster presentation at the Neuroscience of the Everyday World conference, Boston, MA, USA.
+<br>
+<br>
+Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St Lawrence, Yalda Mohsenzadeh & Emma G. Duerden (2022, Nov). Spontaneous Functional Connectivity Increased with Gestational Age: A Functional Near-Infrared Spectroscopy Study in Healthy Newborns. Poster presentation at the Society for Neuroscience conference, San Diego, CA, USA.  
+<br>
+<br>
+**Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2022, Oct). Evaluating the importance of animacy and visual realism in social interactions using fNIRS. Poster presentation at the Society for fNIRS conference, Boston, MA, USA.
+<br>
+<br>
+**Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2022, Sep). Evaluating the importance of animacy and visual realism in social interactions using fNIRS. Poster presentation at the WestNIRS conference, London, ON, Canada.
+<br>
+<br>
+* These authors contributed equally
