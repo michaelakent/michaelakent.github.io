@@ -11,6 +11,8 @@ navbar:
       href: projects.html
     - text: "Science Communication"
       href: scicomm.html
+    - text: "Publications"
+      href: publications.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:mkent28@uwo.ca

@@ -2,11 +2,18 @@
 title: "Publications"
 output: html_document
 ---
+<style>
+.text.extra-padding {
+    padding-left: 100px; 
+    max-width:100%;
+  }
+</style>
 <br>
 <br>
 **Publications** 
 <br>
 <br>
+<div class="text extra-padding"> 
 Ruud Hortensius* , **Michaela Kent*** , Kohinoor M. Darda, Laura Jastrzab, Kami Koldewyn, Richard Ramsey & Emily S. Cross (2021). [Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25542). *Human Brain Mapping*.
 <br>
 * These authors contributed equally
@@ -19,15 +26,19 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 [Zenodo](https://zenodo.org/record/4146985) | [PDF](https://www.soba-lab.com/_files/ugd/3e5863_cf150f119e2640d1a0c6963ea7fc20f4.pdf) 
 <br>
 <br>
+</div>
 **Book Chapter** 
 <br>
 <br>
+<div class="text extra-padding"> 
 **Michaela Kent**, Diane Seguin, Emma G. Duerden (in press). Technology-based learning tools and face processing in children with Autism Spectrum Disorder. *Handbook of Neural Engineering, Volume 5: Small Vessel Diseases of Brain*.
 <br>
 <br>
+</div>
 **Poster Presentations** 
 <br>
 <br>
+<div class="text extra-padding"> 
 **Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2023, Aug). Exploring whether evoked-responses are influenced by animacy and visual realism during virtual social interactions using fNIRS. Poster presentation at the Neuroscience of the Everyday World conference, Boston, MA, USA.
 <br>
 <br>
@@ -41,3 +52,4 @@ Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri
 <br>
 <br>
 * These authors contributed equally
+</div>
