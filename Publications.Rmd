@@ -2,6 +2,7 @@
 title: "Publications"
 output: html_document
 ---
+
 <style>
 .text.extra-padding {
     padding-left: 100px; 
