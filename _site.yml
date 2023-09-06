@@ -15,7 +15,7 @@ navbar:
       href: publications.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:mkent28@uwo.ca
+      href: mailto:mkent28@uwo.ca 
     - icon: fa-github fa-lg
       href: http://github.com/michaelakent/ 
     - icon: fa-brands fa-twitter
