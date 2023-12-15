@@ -93,8 +93,8 @@ The Dorsal Column is a quarterly publication sharing science communication piece
 <div class="text extra-padding"> 
 <p>The Developing Brain Lab were invited to discuss ongoing research on digital technology and the developing brain on CBC National News. 
 </p>
-</div>
 <iframe src="//www.cbc.ca/i/phoenix/player/syndicate/?mediaId=2282222147888" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Inspiring Minds
 
