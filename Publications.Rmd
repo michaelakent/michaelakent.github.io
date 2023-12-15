@@ -15,6 +15,9 @@ output: html_document
 <br>
 <br>
 <div class="text extra-padding"> 
+Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (preprint). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1). *BioRxiv*.
+<br>
+<div class="text extra-padding"> 
 Ruud Hortensius* , **Michaela Kent*** , Kohinoor M. Darda, Laura Jastrzab, Kami Koldewyn, Richard Ramsey & Emily S. Cross (2021). [Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25542). *Human Brain Mapping*.
 <br>
 * These authors contributed equally
@@ -42,21 +45,15 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 <div class="text extra-padding"> 
 **Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2023, Nov). Exploring how evoked-responses to social interactions are influenced by animacy and visual realism in online environments using fNIRS. Poster presentation at the Society for Neuroscience, Washington DC, USA.
 <br>
-<br>
 Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St Lawrence, Yalda Mohsenzadeh & Emma G. Duerden (2023, Nov). Investigating task-free functional connectivity patterns in newborn infants. Poster presentation at the Society for Neuroscience, Washington DC, USA.  
-<br>
 <br>
 Eva Deligiannis* ,**Michaela Kent*** , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2023, Oct). Can avatars replace us? Poster presentation at WestNIRS, London, ON, Canada.
 <br>
-<br>
 **Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2023, Aug). Exploring whether evoked-responses are influenced by animacy and visual realism during virtual social interactions using fNIRS. Poster presentation at the Neuroscience of the Everyday World conference, Boston, MA, USA.
-<br>
 <br>
 Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St Lawrence, Yalda Mohsenzadeh & Emma G. Duerden (2022, Nov). Spontaneous Functional Connectivity Increased with Gestational Age: A Functional Near-Infrared Spectroscopy Study in Healthy Newborns. Poster presentation at the Society for Neuroscience conference, San Diego, CA, USA.  
 <br>
-<br>
 **Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2022, Oct). Evaluating the importance of animacy and visual realism in social interactions using fNIRS. Poster presentation at the Society for fNIRS conference, Boston, MA, USA.
-<br>
 <br>
 **Michaela Kent*** , Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden & Jody C. Culham (2022, Sep). Evaluating the importance of animacy and visual realism in social interactions using fNIRS. Poster presentation at the WestNIRS conference, London, ON, Canada.
 <br>
