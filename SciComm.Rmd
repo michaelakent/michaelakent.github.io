@@ -89,12 +89,26 @@ The Dorsal Column is a quarterly publication sharing science communication piece
   </div>
 </div>
 
+<div class="image-container">
+  <div class="image">
+  <img src="images/TDC_MK_2023.jpg">
+  </div>
+  <div class="text">
+  <p>**How do brain structure differences affect reading abilities?** 
+  
+  Written by Michaela Kent
+  
+  [Read the article here](https://songsuwo.ca/thedorsalcolumn/vol-4-iss-4-michaela-kent)</p>
+  </div>
+</div>
+
 ## Media
 <div class="text extra-padding"> 
 <p>The Developing Brain Lab were invited to discuss ongoing research on digital technology and the developing brain on CBC National News. 
 </p>
 <iframe src="//www.cbc.ca/i/phoenix/player/syndicate/?mediaId=2282222147888" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
 ## Inspiring Minds
 
