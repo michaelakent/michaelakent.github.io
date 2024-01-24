@@ -132,7 +132,7 @@ Read about how Michaela's work is using optical neuroimaging to understand socia
 </p>
 </div>
 <center>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0bu0u29NXmH8sdvNV0aFEL?utm_source=generator&theme=0" width="70%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0bu0u29NXmH8sdvNV0aFEL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </center>
 
 <br>
