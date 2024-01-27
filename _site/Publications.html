@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Publications</title>
+
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="scicomm.html">Science Communication</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:mkent28@uwo.ca">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/michaelakent/">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/michaelakent_">
+    <span class="fa fa-brands fa-twitter"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://ca.linkedin.com/in/michaelakent/">
+    <span class="fa fa-brands fa-linkedin"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Publications</h1>
+
+</div>
+
+
+<style>
+.text.extra-padding {
+    padding-left: 100px; 
+    max-width:100%;
+  }
+</style>
+<p><br> <br> <strong>Publications</strong> <br> <br></p>
+<div class="text extra-padding">
+<p>Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya
+Roychaudhuri, <strong>Michaela Kent</strong>, Soume Bhattacharya,
+Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh &amp;
+Emma Duerden (preprint). <a
+href="https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1">Investigating
+Task-Free Functional Connectivity Patterns in Newborns Using functional
+Near-Infrared Spectroscopy</a>. <em>BioRxiv</em>. <br> <a
+href="https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1">Preprint</a></p>
+</div>
+<div class="text extra-padding">
+<p>Ruud Hortensius* , <strong>Michaela Kent</strong>* , Kohinoor M.
+Darda, Laura Jastrzab, Kami Koldewyn, Richard Ramsey &amp; Emily S.
+Cross (2021). <a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25542">Exploring
+the relationship between anthropomorphism and theory-of-mind in brain
+and behaviour</a>. <em>Human Brain Mapping</em>. <br> * These authors
+contributed equally <br> <a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25542">Full
+Text</a> | <a href="https://psyarxiv.com/3uj4g/">Preprint</a> | <a
+href="https://osf.io/tuq4a">Preregistration</a> | <a
+href="https://osf.io/rg5kn/">Data</a> | <a
+href="https://neurovault.org/collections/6615/">NeuroVault</a> | <a
+href="https://gitlab.com/hortensius/anthrom">Code</a> <br> <br> Anna
+Henschel, <strong>Michaela Kent</strong>, Luca M. Leisten, Hanna
+Seelemeyer, Rosanne Timmerman, Ruud Hortensius &amp; Emily S. Cross
+(2020). <a href="https://zenodo.org/record/4146985">A manual to
+digitising fNIRS probes with photogrammetry as described in Clausner et.
+al. (2017)</a>. <em>Zenodo</em>. <br> <a
+href="https://zenodo.org/record/4146985">Zenodo</a> | <a
+href="https://www.soba-lab.com/_files/ugd/3e5863_cf150f119e2640d1a0c6963ea7fc20f4.pdf">PDF</a>
+<br> <br></p>
+</div>
+<strong>Book Chapter</strong> <br> <br>
+<div class="text extra-padding">
+<p><strong>Michaela Kent</strong>, Diane Seguin &amp; Emma G. Duerden
+(in press). Technology-based learning tools and face processing in
+children with Autism Spectrum Disorder. <em>Handbook of Neural
+Engineering, Volume 5: Small Vessel Diseases of Brain</em>. <br>
+<br></p>
+</div>
+<strong>Science Communication Publications</strong> <br> <br>
+<div class="text extra-padding">
+<p><strong>Michaela Kent</strong> &amp; Emma G. Duerden (2024). <a
+href="https://theconversation.com/excessive-social-media-use-during-the-covid-19-pandemic-exacerbated-adolescent-mental-health-challenges-217986">Excessive
+social media use during the COVID-19 pandemic exacerbated adolescent
+mental health challenges.</a> <em>The Conversation</em>. <br> <br>
+<strong>Michaela Kent</strong> (2023). <a
+href="https://songsuwo.ca/thedorsalcolumn/vol-4-iss-4-michaela-kent">How
+do brain structure differences affect reading abilities?</a> <em>The
+Dorsal Column</em>. <br> <br> <strong>Michaela Kent</strong> (2023). <a
+href="https://songsuwo.ca/thedorsalcolumn/vol4-iss2-michaela-kent">The
+Promise of Bedside Brain Imaging in Babies.</a> <em>The Dorsal
+Column</em>. <br> <br> <strong>Michaela Kent</strong> (2022). <a
+href="https://songsuwo.ca/thedorsalcolumn/vol3-iss4-michaela-kent">The
+amygdala, anxiety and Autism Spectrum Disorder.</a> <em>The Dorsal
+Column</em>. <br> <br> <strong>Michaela Kent</strong> (2022). <a
+href="https://songsuwo.ca/thedorsalcolumn/vol3-iss2-michaela-kent">The
+Damaging Effects of Orphanages on the Brain.</a> <em>The Dorsal
+Column</em>. <br> <br></p>
+</div>
+<strong>Poster Presentations</strong> <br> <br>
+<div class="text extra-padding">
+<p><strong>Michaela Kent</strong>* , Eva Deligiannis* , Karsten Babin,
+Kevin Stubbs, Emma G. Duerden &amp; Jody C. Culham (2023, Nov).
+Exploring how evoked-responses to social interactions are influenced by
+animacy and visual realism in online environments using fNIRS. Poster
+presentation at the Society for Neuroscience, Washington DC, USA. <br>
+<br> Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya
+Roychaudhuri, <strong>Michaela Kent</strong>, Soume Bhattacharya,
+Sandrine de Ribaupierre, Keith St Lawrence, Yalda Mohsenzadeh &amp; Emma
+G. Duerden (2023, Nov). Investigating task-free functional connectivity
+patterns in newborn infants. Poster presentation at the Society for
+Neuroscience, Washington DC, USA.<br />
+<br> Eva Deligiannis* , <strong>Michaela Kent</strong>* , Karsten Babin,
+Kevin Stubbs, Emma G. Duerden &amp; Jody C. Culham (2023, Oct). Can
+avatars replace us? Poster presentation at WestNIRS, London, ON, Canada.
+<br> <br> <strong>Michaela Kent</strong>* , Eva Deligiannis* , Karsten
+Babin, Kevin Stubbs, Emma G. Duerden &amp; Jody C. Culham (2023, Aug).
+Exploring whether evoked-responses are influenced by animacy and visual
+realism during virtual social interactions using fNIRS. Poster
+presentation at the Neuroscience of the Everyday World conference,
+Boston, MA, USA. <br> <br> Homa Vahidi, Alexandra Kowalczyk, Kevin
+Stubbs, Melab Musabi, Sriya Roychaudhuri, <strong>Michaela
+Kent</strong>, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St
+Lawrence, Yalda Mohsenzadeh &amp; Emma G. Duerden (2022, Nov).
+Spontaneous Functional Connectivity Increased with Gestational Age: A
+Functional Near-Infrared Spectroscopy Study in Healthy Newborns. Poster
+presentation at the Society for Neuroscience conference, San Diego, CA,
+USA.<br />
+<br> <strong>Michaela Kent</strong>* , Eva Deligiannis* , Karsten Babin,
+Kevin Stubbs, Emma G. Duerden &amp; Jody C. Culham (2022, Oct).
+Evaluating the importance of animacy and visual realism in social
+interactions using fNIRS. Poster presentation at the Society for fNIRS
+conference, Boston, MA, USA. <br> <br> <strong>Michaela Kent</strong>* ,
+Eva Deligiannis* , Karsten Babin, Kevin Stubbs, Emma G. Duerden &amp;
+Jody C. Culham (2022, Sep). Evaluating the importance of animacy and
+visual realism in social interactions using fNIRS. Poster presentation
+at the WestNIRS conference, London, ON, Canada. <br> <br> * These
+authors contributed equally</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
