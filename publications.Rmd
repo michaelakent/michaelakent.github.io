@@ -13,8 +13,6 @@ output: html_document
 <br>
 **Publications** 
 <br>
-<br>
-
 <div class="text extra-padding"> 
 Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (preprint). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1). *BioRxiv*.
 <br>
@@ -36,14 +34,12 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 </div>
 **Book Chapter** 
 <br>
-<br>
 <div class="text extra-padding"> 
 **Michaela Kent**, Diane Seguin & Emma G. Duerden (in press). Technology-based learning tools and face processing in children with Autism Spectrum Disorder. *Handbook of Neural Engineering, Volume 5: Small Vessel Diseases of Brain*.
 <br>
 <br>
 </div>
-**Science Communication Publications** 
-<br>
+**Science Communication** 
 <br>
 <div class="text extra-padding"> 
 **Michaela Kent** & Emma G. Duerden (2024). [Excessive social media use during the COVID-19 pandemic exacerbated adolescent mental health challenges.](https://theconversation.com/excessive-social-media-use-during-the-covid-19-pandemic-exacerbated-adolescent-mental-health-challenges-217986) *The Conversation*.
@@ -62,10 +58,20 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 <br>
 <br>
 </div>
+**Presentations** 
+<div class="text extra-padding"> 
+**Michaela Kent** (2023, Oct). Exploring the neural correlates of face processing and Theory of Mind in early development. Oral presentation at WestNIRS, London, ON, Canada.
+<br>
+<br>
+**Michaela Kent** (2022, Sep). Evaluating the importance of animacy and visual realism in social interactions using fNIRS. Oral presentation at WestNIRS, London, ON, Canada.
+<br>
+<br>
+**Michaela Kent**(2021, Nov). Introduction to functional Near-Infrared Spectroscopy. Tutorial and presentation at Brainhack, London, ON, Canada.
+<br>
+<br>
+</div>
 **Poster Presentations** 
 <div class="text extra-padding"> 
-<br>
-<br>
 Lauren M. MacIntyre, **Michaela Kent**, Brian Krivoruk, Eun Jung Choi & Emma G. Duerden (2024, Mar). Media Screen Time Use in Adolescents and the Association with the Social Brain Network: fNIRS Study. Poster presentation at Inspiring Diversity in STEM, London, ON, Canada.
 <br>
 <br>
