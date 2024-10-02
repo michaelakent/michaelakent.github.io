@@ -14,7 +14,12 @@ output: html_document
 **Publications** 
 <br>
 <div class="text extra-padding"> 
-Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (preprint). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1). *BioRxiv*.
+Meryem Ayşe Yücel, Robert Luke, Rickson Coelho Mesquita, … Michaela Kent, … Vit Zemanek (preprint). [The fNIRS Reproducibility Study Hub (FRESH): Exploring Variability and Enhancing Transparency in fNIRS Neuroimaging Research](https://osf.io/preprints/metaarxiv/pc6x8).
+<br>
+[Preprint](https://osf.io/preprints/metaarxiv/pc6x8)
+<br>
+<br>
+Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (preprint). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1).
 <br>
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1) 
 </div>
@@ -60,6 +65,9 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 </div>
 **Presentations** 
 <div class="text extra-padding"> 
+**Michaela Kent**, Caroline Kelsey, Emma G. Duerden, Jody C. Culham, Michelle Bosquet Enlow & Charles A. Nelson (2024, Jul). Neural correlates of face processing are associated with Theory of Mind development in early childhood. Oral presentation at the International Congress of Infant Studies, Glasgow, U.K.
+<br>
+<br>
 **Michaela Kent** (2023, Oct). Exploring the neural correlates of face processing and Theory of Mind in early development. Oral presentation at WestNIRS, London, ON, Canada.
 <br>
 <br>
@@ -72,6 +80,15 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 </div>
 **Poster Presentations** 
 <div class="text extra-padding"> 
+Brian Krivoruk, Homa Vahidi, **Michaela Kent** & Emma G. Duerden (2024, Oct). Social Media Screen Time Use and Brain Connectivity in Adolescents. Poster presentation at the Society for Neuroscience, Chicago, USA.
+<br>
+<br>
+**Michaela Kent**, Homa Vahidi, Brian Krivoruk & Emma G. Duerden (2024, Sep). The social brain network and adolescent screen time. Poster presentation at the Society for fNIRS, Birmingham, U.K.
+<br>
+<br>
+**Michaela Kent**, Kevin Stubbs, Homa Vahidi & Jody C. Culham (2024, Sep). Two Human Datasets Reveal the Benefits of Event-Related Designs and Deconvolution for fNIRS Research. Poster presentation at the Society for fNIRS, Birmingham, U.K.
+<br>
+<br>
 Lauren M. MacIntyre, **Michaela Kent**, Brian Krivoruk, Eun Jung Choi & Emma G. Duerden (2024, Mar). Media Screen Time Use in Adolescents and the Association with the Social Brain Network: fNIRS Study. Poster presentation at Inspiring Diversity in STEM, London, ON, Canada.
 <br>
 <br>
