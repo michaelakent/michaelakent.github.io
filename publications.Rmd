@@ -40,7 +40,7 @@ Anna Henschel, **Michaela Kent**, Luca M. Leisten, Hanna Seelemeyer, Rosanne Tim
 **Book Chapter** 
 <br>
 <div class="text extra-padding"> 
-**Michaela Kent**, Diane Seguin & Emma G. Duerden (in press). Technology-based learning tools and face processing in children with Autism Spectrum Disorder. *Handbook of Neural Engineering, Volume 5: Small Vessel Diseases of Brain*.
+**Michaela Kent**, Diane Seguin & Emma G. Duerden (*in press*). Technology-based learning tools and face processing in children with Autism Spectrum Disorder. *Handbook of Neural Engineering, Volume 5: Small Vessel Diseases of Brain*.
 <br>
 <br>
 </div>
