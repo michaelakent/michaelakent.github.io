@@ -14,12 +14,12 @@ output: html_document
 **Publications** 
 <br>
 <div class="text extra-padding"> 
-Meryem Ayşe Yücel, Robert Luke, Rickson Coelho Mesquita, … Michaela Kent, … Vit Zemanek (preprint). [The fNIRS Reproducibility Study Hub (FRESH): Exploring Variability and Enhancing Transparency in fNIRS Neuroimaging Research](https://osf.io/preprints/metaarxiv/pc6x8).
+Meryem Ayşe Yücel, Robert Luke, Rickson Coelho Mesquita, … **Michaela Kent**, … Vit Zemanek (preprint). [The fNIRS Reproducibility Study Hub (FRESH): Exploring Variability and Enhancing Transparency in fNIRS Neuroimaging Research](https://osf.io/preprints/metaarxiv/pc6x8).
 <br>
 [Preprint](https://osf.io/preprints/metaarxiv/pc6x8)
 <br>
 <br>
-Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (preprint). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1).
+Homa Vahidi, Alexandra Kowalczyk, Kevin Stubbs, Melab Musabi, Sriya Roychaudhuri, **Michaela Kent**, Soume Bhattacharya, Sandrine de Ribaupierre, Keith St. Lawrence, Yalda Mohsenzadeh & Emma Duerden (2024, *in press*). [Investigating Task-Free Functional Connectivity Patterns in Newborns Using functional Near-Infrared Spectroscopy](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1). *Brain and Behavior*.
 <br>
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.05.555980v1) 
 </div>
