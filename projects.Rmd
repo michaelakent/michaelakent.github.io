@@ -23,17 +23,16 @@ output: html_document
 <br>
 <br>
 
-**[Nelson Lab](https://www.childrenshospital.org/research/labs/nelson-laboratory-research)**
+**Previous labs and projects:**
+<br>
+<br>**[Nelson Lab](https://www.childrenshospital.org/research/labs/nelson-laboratory-research)**
 
 - Principal Investigator: [Dr. Charles Nelson](https://www.gse.harvard.edu/faculty/charles-nelson-iii)
 
-- Michaela is currently a visiting researcher at the Laboratories of Cognitive Neuroscience at Boston Children's Hospital and Harvard Medical School. Here, she is working on the Emotion Project, which aims to examine whether individual differences in processing facial emotion in infancy are related to later developmental outcomes.
+- Michaela was a visiting researcher at the Laboratories of Cognitive Neuroscience at Boston Children's Hospital and Harvard Medical School. Here, she worked on the Emotion Project, which aims to examine whether individual differences in processing facial emotion in infancy are related to later developmental outcomes.
 <br>
 <br>
 
-**Previous labs and projects:**
-<br>
-<br>
 **[Social Brain in Action Lab](https://www.soba-lab.com/)** and **[Social Robots](https://www.so-bots.com/)**
 
 - Principal Investigator: [Dr. Emily Cross](https://www.soba-lab.com/people)
